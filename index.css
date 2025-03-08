@@ -1,0 +1,51 @@
+:root {
+    font-size: 17px;
+}
+
+body {
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f4f4;
+    line-height: 1.5em;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #000;
+    margin-bottom: 10px;
+}
+
+#container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.my-class {
+    color: blue;
+    background: black;
+}
+
+#box {
+    background: #333;
+    color: white;
+    height: 90px;
+    padding: 40px;
+    text-align: center;
+}
+
+#box-2 {
+    background: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.post {
+    background-color: #ccc;
+    padding: 10px 25px;
+    margin-bottom: 1rem;
+}
